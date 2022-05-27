@@ -3,3 +3,5 @@ tiger
 cat
 dog
 rat
+lion
+cow
